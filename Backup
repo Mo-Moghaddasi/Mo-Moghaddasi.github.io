@@ -29,3 +29,21 @@
 										</article>
 									</div>
 								</section>-->
+
+
+
+
+										<li>
+											<span class="opener">Projects</span>
+											<ul>
+												<li><a href="Mo-Moghaddasi.github.io/projects">Coin Sorter/Counter</a></li>
+												<li><a href="Mo-Moghaddasi.github.io/projects">Reuleaux Machine</a></li>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">Research</span>
+											<ul>
+												<li><a href="#">Development of Secondary Batteries</a></li>
+												<li><a href="#">Human-Robot Interactions</a></li>
+											</ul>
+										</li>
