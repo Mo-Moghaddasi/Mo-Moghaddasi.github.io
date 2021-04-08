@@ -64,9 +64,11 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="#" class="image"><img src="" alt="" /></a>
-											<h3>Human-Robot Interactions</h3>
-											<p>Developing bimanual handovers to provide a humanlike user experience wit multi-handed handovers.</p>
+											<a href="#" class="image"><img src="images/Coin_Sorter" alt="" /></a>
+											<a href="#" class="image"><img src="images/Coin_Sorter2" alt="" /></a>
+											<h3>Coin Sorter/Counter</h3>
+											<p>•	Designed, programmed, and built a power supplied coin sorter/counter using different electronic
+												and mechanical parts such as Arduino Board, stepper motor, and photo resistors </p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
